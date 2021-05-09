@@ -6,9 +6,7 @@ You as a player will have two lives and lot of power ups around the map to kill 
 
 The purpose of this game is to demonstrate my skills developing a 2D video game, using Unity and C#.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo Video](https://youtu.be/8EbFxrA3nTE)
 
 # Development Environment
 
